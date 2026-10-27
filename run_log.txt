@@ -1,0 +1,24 @@
+[cached] pso_seed1
+[cached] pso_seed2
+[cached] pso_seed3
+[cached] pso_seed4
+  iter 01/15  gbest=0.05744  mean=0.06182  evals=24
+  iter 02/15  gbest=0.05577  mean=0.05925  evals=36
+  iter 03/15  gbest=0.05226  mean=0.05716  evals=48
+  iter 04/15  gbest=0.04941  mean=0.05378  evals=60
+  iter 05/15  gbest=0.04941  mean=0.05324  evals=72
+  iter 06/15  gbest=0.04941  mean=0.05218  evals=84
+  iter 07/15  gbest=0.04941  mean=0.05159  evals=96
+  iter 08/15  gbest=0.04941  mean=0.05195  evals=108
+  iter 09/15  gbest=0.04941  mean=0.05237  evals=120
+  iter 10/15  gbest=0.04941  mean=0.05137  evals=132
+  iter 11/15  gbest=0.04941  mean=0.05187  evals=144
+  iter 12/15  gbest=0.04941  mean=0.05217  evals=156
+  iter 13/15  gbest=0.04941  mean=0.05105  evals=168
+  iter 14/15  gbest=0.04941  mean=0.05087  evals=180
+  iter 15/15  gbest=0.04941  mean=0.05048  evals=191
+[done]   pso_seed5  (185s)
+[done]   random_search  (201s)
+[done]   grid_search  (143s)
+[done]   benchmarks  (18s)
+ALL DONE
